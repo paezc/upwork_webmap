@@ -1,5 +1,6 @@
 Encontramos esta oferta de trabajo en Upwork y la vamos a tratar de resolver con un paso a paso. Sólo vamos a necesitar algunos conocimientos básicos de programación.
 https://www.upwork.com/jobs/Interactive-Map-Integration-with-Custom-Design-for-Datacenter-Locations_~012a570c26028910bf
+
 Project Description:
 We are looking for a skilled web developer to integrate an interactive map into our homepage, showcasing approximately 200 datacenter locations worldwide. The map will feature custom-designed pointers for each city and an information box with specific details provided from an our datacenter Excel spreadsheet.
 Algo así como...
