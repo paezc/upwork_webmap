@@ -3,7 +3,9 @@ https://www.upwork.com/jobs/Interactive-Map-Integration-with-Custom-Design-for-D
 
 Project Description:
 We are looking for a skilled web developer to integrate an interactive map into our homepage, showcasing approximately 200 datacenter locations worldwide. The map will feature custom-designed pointers for each city and an information box with specific details provided from an our datacenter Excel spreadsheet.
+
 Algo así como...
+
 Buscamos un desarrollador que integre un mapa interactivo a nuestra web, mostrando la ubicación de unos 200 datacenters. El mapa deberá mostrar marcadores propios para cada ciudad y una caja con info específica que será provista en una hoja de excel.
 
 Ok, vamos a por ello.
