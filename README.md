@@ -11,6 +11,6 @@ Buscamos un desarrollador que integre un mapa interactivo a nuestra web, mostran
 Ok, vamos a por ello.
 
 Qúe vamos a hacer?
-Lo vamos a desarrollar local y después lo subiremos a un servidor web para que el cliente vea el funcionamiento. Para ello vamos a instalar un servidor web en nuestro equipo para uso local: Xampp (si usas windows) o Lampp o el que te guste (si usas linux).
-Te creas una carpeta y le pones el nombre que quieras (yo le puse webmap) y la pones dentro de htdocs (en Xampp) o de www (en linux). Podes crear dos carpetas que vamos a usar seguro, seguro, css y js. 
-Luego abrimos el proyecto en el Visual Studio Code (o en el editor de texto que gusten). Allí vamos a crear nuestro archivo mapa.html
+En map.html linkeamos la hoja de estilos (solo para que el mapa se vea al 100%), declaramos el geojson de 200 ciudades tomadas al azar, y el mapa leaflet propiamente dicho.
+En map.js armamos las funcionalidades requeridas por el proyecto
+Los estilos particualres del cliente no los tenemos, por eso, no le dimos estilo a nada, dando por descontado que es lo más sencillo luego de conseguir el funcionamiento del mapa web.
